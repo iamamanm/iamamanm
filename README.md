@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamamanm
-- 👀 I’m interested in ...data 
-- 🌱 I’m currently learning ...data analytics
-- 💞️ I’m looking to collaborate on ...analytics projects 
+- 👀 I’m interested in ...data & IT Consulting
+- 🌱 I’m currently learning ...data analytics & IT  Consulting 
+- 💞️ I’m looking to collaborate on ...analytics projects & IT  Consulting  
 - 📫 How to reach me ...aman.malhotra2599@gmail.com
 
 <!---
